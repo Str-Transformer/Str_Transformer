@@ -19,11 +19,9 @@ Oxford dataset
 # Training and Evaluation
 To train Str-Transformer model on the Baseline Dataset
 
-
 python train.py 
 
 To evaluate pretrained Str-Transformer model on the Baseline Dataset
-
 
 python evaluate.py 
 
