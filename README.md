@@ -26,8 +26,9 @@ To evaluate pretrained Str-Transformer model on the Baseline Dataset
 - python evaluate.py 
 
 # Pre-trained Models
-Pretrained models are available in logs
-best_model.pth trained on the Baseline Dataset
+Pretrained models on the Baseline Dataset are available in logs
+
+- best_model.pth 
 
 # Acknowledgement
 Our code refers to PointNetVLAD 
