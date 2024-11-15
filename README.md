@@ -7,7 +7,7 @@ This paper proposes a step-wise cross-attention mechanism integrating 3D structu
 ![image](https://github.com/user-attachments/assets/d2faeb65-f2b2-4281-bbab-2bb8d3aab984)
 
 
-We use the Oxford robotics benchmark datasets introduced in PointNetVLAD 
+# We use the Oxford robotics benchmark datasets introduced in PointNetVLAD 
 
 Oxford dataset
 - NUS (in-house) Datasets
@@ -16,16 +16,16 @@ Oxford dataset
 - business district (B.D.)
 
 
-Training and Evaluation
-# To train Str-Transformer model on the Baseline Dataset
+# Training and Evaluation
+To train Str-Transformer model on the Baseline Dataset
 python train.py 
 
-# To evaluate pretrained Str-Transformer model on the Baseline Dataset
+To evaluate pretrained Str-Transformer model on the Baseline Dataset
 python evaluate.py 
 
-Pre-trained Models
+# Pre-trained Models
 Pretrained models are available in logs
 best_model.pth trained on the Baseline Dataset
 
-Acknowledgement
+# Acknowledgement
 Our code refers to PointNetVLAD and PointWeb.
