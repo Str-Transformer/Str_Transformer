@@ -30,4 +30,4 @@ Pretrained models are available in logs
 best_model.pth trained on the Baseline Dataset
 
 # Acknowledgement
-Our code refers to PointNetVLAD and PointWeb.
+Our code refers to PointNetVLAD 
