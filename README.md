@@ -4,5 +4,6 @@ Robust Place Recognition
 
 
 
+![image](https://github.com/user-attachments/assets/e975d5ed-b921-4cff-9276-c76a1b7277be)
 
-![Uploading image.png…]()
+
