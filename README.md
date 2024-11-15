@@ -16,3 +16,16 @@ Oxford dataset
 - business district (B.D.)
 
 
+Training and Evaluation
+# To train Str-Transformer model on the Baseline Dataset
+python train.py 
+
+# To evaluate pretrained Str-Transformer model on the Baseline Dataset
+python evaluate.py 
+
+Pre-trained Models
+Pretrained models are available in logs
+best_model.pth trained on the Baseline Dataset
+
+Acknowledgement
+Our code refers to PointNetVLAD and PointWeb.
